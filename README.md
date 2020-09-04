@@ -1,16 +1,20 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>facebook</title>
 
-<!--
-**youssefdammak/youssefdammak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</head>
+<body>
+<details>
+    <summary>the summary</summary>
+    <p>hello my name is youssef dmmak</p>
+</details>
+<hr>
+<hr>
+<hr>
+this is my life goal <meter min="0" max="100" value="50">25% > </meter> 50%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
